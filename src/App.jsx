@@ -31,12 +31,12 @@ if (loaded===false){
   return (
     <div>
         <Head
-           /*phrase='hello im'
+           phrase='hello im'
             name='kaley'
             phrase2="greetings im"
             name2='hunter'
             phrase3='welcome im'
-             name3='dariss'*/
+             name3='dariss'
            
              
              />
